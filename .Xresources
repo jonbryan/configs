@@ -1,0 +1,14 @@
+Xft.antialias: true
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.dpi: 96
+
+URxvt.font: xft:Ubuntu Mono:size=13
+URxvt.scrollBar: false
+URxvt.background: #000000
+URxvt.foreground: #fcfcfc
+
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+
